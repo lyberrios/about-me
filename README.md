@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apapacho I speak English, Spanish and Portuguese 
+- 👋 Hi, I’m @apapacho
 - 👀 I’m interested in learning how to code and how to create websites and apps.
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on different projects and challenges 
